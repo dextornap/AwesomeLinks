@@ -114,8 +114,12 @@
         - Have you ever had to put the team’s goals above personal ambitions?
 
         - How is your mentality ‘user centred’? 
+            * Cache list of Frequesnt Flyer members form Loyalty Members Service API
+            * Spike - find # of requests to PTFUI = ~4000 / 30 min
 
         - How have you put the customer first?
+            * User experience - Latency for PTFUI making Loyalty / CAPCRE API calls
+            * Splunk dashboards 
 
         - What trade-off(s) did you make to do this?
 

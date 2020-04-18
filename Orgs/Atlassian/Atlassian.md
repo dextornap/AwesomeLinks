@@ -14,24 +14,24 @@
 
 ### `Coding interview`
 
-1. Two types:
+    1. Two types:
 
-    - Code / System Design
-    - Data structures
+        - Code / System Design
+        - Data structures
 
-2. Efficiency using both IDE and keyboard will be assessed
+    2. Efficiency using both IDE and keyboard will be assessed
 
-    - keyboard shortcuts
-    - Using a debugger
-    - Testing : TDD
+        - keyboard shortcuts
+        - Using a debugger
+        - Testing : TDD
 
-3. Demonstrating how you think and approach problem solving
+    3. Demonstrating how you think and approach problem solving
 
-    - Talk while code
-    - Pair programmimg
-    - Showcase all possible solutions and why the approach you selected is the best fit
+        - Talk while code
+        - Pair programmimg
+        - Showcase all possible solutions and why the approach you selected is the best fit
 
-4. How well you can collaborate in a team in order to solve problems
+    4. How well you can collaborate in a team in order to solve problems
 
 > **Resources**
 
@@ -55,26 +55,27 @@
 
 ### `System design interview`
 
-1. Demonstrate technical depth, breadth, and proficiency
+    1. Demonstrate technical depth, breadth, and proficiency
 
-    - problem-solving thought process
-    - decision making
-    - operational considerations such as e.g performance and reliability
+        - problem-solving thought process
+        - decision making
+        - operational considerations such as e.g performance and reliability
 
-2. Seek first to understand
+    2. Seek first to understand
 
-    - ask any clarifying questions upfront
-    - starting with fundamentals and then building in complexity
-    - have a paper and pen available for the technical problem
-    - [whiteboard function in zoom](https://www.youtube.com/watch?v=GGNqE0BCf0E)
+        - ask any clarifying questions upfront
+        - starting with fundamentals and then building in complexity
+        - have a paper and pen available for the technical problem
 
-3. Draw from past experiences when designing something new
+    3. Draw from past experiences when designing something new
 
-4. Keep the customer in mind
+    4. Keep the customer in mind
 
-5. How your solution might perform and scale
+    5. How your solution might perform and scale
 
 > **Resources**
+
+- [whiteboard function in zoom](https://www.youtube.com/watch?v=GGNqE0BCf0E)
 
 - [Systems Design - (Gaurav Sen)](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 

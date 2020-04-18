@@ -22,14 +22,13 @@
 
         - Talk while code
         - Pair programmimg
+        - Showcase all possible solutions and why the approach you selected is the best fit
 
-    3. Showcase all possible solutions and why the approach you selected is the best fit
-
-        - how well you can collaborate in a team in order to solve problems
+    3. How well you can collaborate in a team in order to solve problems
 
 ### System design interview
 
-    1. demonstrate technical depth, breadth, and proficiency
+    1. Demonstrate technical depth, breadth, and proficiency
 
     2. problem-solving thought process, decision making and operational considerations such as performance and reliability
     
@@ -43,4 +42,6 @@
 
     5. Keep the customer in mind and how your solution might perform and scale.
 
-### System design interview
+### Values interview
+
+### Management interview

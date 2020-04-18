@@ -50,6 +50,7 @@
 
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=9766s)
 
+- [Design Patterns in Plain English | Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk&t=507s)
 - [Algorithms - (www.geeksforgeeks.org)](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/)
 
 - [Asynchronous Programming in Java](https://www.baeldung.com/java-asynchronous-programming)

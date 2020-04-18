@@ -83,11 +83,11 @@
 
 - [whiteboard function in zoom](https://www.youtube.com/watch?v=GGNqE0BCf0E)
 
-- [Systems Design Fundamentals: (www.algoexpert.io)](https://www.algoexpert.io/systems/product?r=ads&gclid=Cj0KCQjwyur0BRDcARIsAEt86IAS9YMj9dAZzbZCdrDnTh0RXzCgHiIv3AAgcH_IyQryQ53JrZ8DUUgaAqQ2EALw_wcB)
-
 - [Systems Design - (Gaurav Sen)](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
 - [Systems Design - Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+
+- [Systems Design Fundamentals: (www.algoexpert.io)](https://www.algoexpert.io/systems/product?r=ads&gclid=Cj0KCQjwyur0BRDcARIsAEt86IAS9YMj9dAZzbZCdrDnTh0RXzCgHiIv3AAgcH_IyQryQ53JrZ8DUUgaAqQ2EALw_wcB)
 
 ---
 

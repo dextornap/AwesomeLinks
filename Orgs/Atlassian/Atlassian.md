@@ -92,5 +92,12 @@
 
 ### Management interview
 
-1. We
-2. Do
+    1. STAR interview model
+        - STAR stands for Situation, Task, Action, Result
+    2. ***
+
+> **Resources**
+
+- [How to Use the STAR Interview Response Technique](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
+
+- [STAR INTERVIEW QUESTIONS and Answers (PASS GUARANTEED!)](https://www.youtube.com/watch?v=8QfSnuL8Ny8)

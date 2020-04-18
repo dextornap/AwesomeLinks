@@ -43,6 +43,10 @@
 
 - [IntelliJ IDEA Mac Cheat Sheet | ShortcutFoo](https://www.shortcutfoo.com/app/dojos/intellij-idea-mac/cheatsheet)
 
+- [Test Driven Development - Java Example 1](https://www.youtube.com/watch?v=Xc3d6j8Rm_I)
+
+- [Pair programming - LA Ruby Conf 2014 - I Have Pair Programmed for 27,000 Hours: Ask Me Anything!](https://www.youtube.com/watch?v=rIcUXcyC6BA)
+
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=9766s)
 
 - [Algorithms - (www.geeksforgeeks.org)](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/)
@@ -79,9 +83,11 @@
 
 - [whiteboard function in zoom](https://www.youtube.com/watch?v=GGNqE0BCf0E)
 
+- [Systems Design Fundamentals: (www.algoexpert.io)](https://www.algoexpert.io/systems/product?r=ads&gclid=Cj0KCQjwyur0BRDcARIsAEt86IAS9YMj9dAZzbZCdrDnTh0RXzCgHiIv3AAgcH_IyQryQ53JrZ8DUUgaAqQ2EALw_wcB)
+
 - [Systems Design - (Gaurav Sen)](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
-- [Systems Design Fundamentals: (www.algoexpert.io)](https://www.algoexpert.io/systems/product?r=ads&gclid=Cj0KCQjwyur0BRDcARIsAEt86IAS9YMj9dAZzbZCdrDnTh0RXzCgHiIv3AAgcH_IyQryQ53JrZ8DUUgaAqQ2EALw_wcB)
+- [Systems Design - Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
 
 ---
 
@@ -89,8 +95,7 @@
 
     1. Behavioral interview questions
 
-        - how your thought process and actions are aligned with our core set of company
-    values.
+        - how your thought process and actions are aligned with our core set of company values
 
     2. Company values
 

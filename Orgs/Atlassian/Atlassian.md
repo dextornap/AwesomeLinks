@@ -85,8 +85,31 @@
 
 ### Values interview
 
-1. We
-2. Do
+    1. Behavioral interview questions
+
+        - how your thought process and actions are aligned with our core set of company
+    values.
+
+    2. Company values
+        - When have you advocated to push for change? 
+        - What did you learn from this process? 
+        - What was the outcome?
+        - How do you work with other people? 
+        - How have you helped make a team/individual more successful if they weren’t performing well? 
+        - Have you ever had to put the team’s goals above personal ambitions?
+        - How is your mentality ‘user centred’? 
+        - How have you put the customer first?
+        - What trade-off(s) did you make to do this?
+        - What's your approach when having difficult conversations? 
+        - How have you resolved conflict in the past? 
+        - Have you adapted your communication style to achieve a better outcome in a potentially negative situation?
+        - How do you think about prioritisation and decision making? 
+        - What are examples when you or the team have missed the mark? How did you react? 
+        - How did you approach fixings things?
+
+> **Resources**
+
+- [Company values](https://www.atlassian.com/company/values)
 
 ---
 

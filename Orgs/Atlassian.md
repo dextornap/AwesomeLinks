@@ -2,7 +2,7 @@
 
 [Home](../README.md)
 
-## Welcome to Atlassian
+### Welcome to Atlassian
 
 -----
 

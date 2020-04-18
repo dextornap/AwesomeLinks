@@ -1,6 +1,6 @@
-# AwsomeLinks Home
+# Awesome Links Home
 
-## Welcome to the links for creating the Future
+### Welcome to the links for creating the Future
 
 - [Atlassian](./Orgs/Atlassian.md)
 - [Service NSW](./Orgs/ServiceNSW.md)

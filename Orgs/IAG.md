@@ -3,7 +3,7 @@
 
 [Home](../README.md)
 
-## Welcome to IAG
+### Welcome to IAG
 
 -----
 

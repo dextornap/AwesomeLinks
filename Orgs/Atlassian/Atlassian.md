@@ -12,7 +12,7 @@
 
 ---
 
-### Coding interview
+### `Coding interview`
 
 1. Efficiency using both IDE and keyboard will be assessed
 
@@ -30,7 +30,7 @@
 
 ---
 
-### System design interview
+### `System design interview`
 
 1. Demonstrate technical depth, breadth, and proficiency
 
@@ -50,14 +50,14 @@
 
 ---
 
-### Values interview
+### `Values interview`
 
 1. We
 2. Do
 
 ---
 
-### Management interview
+### `Management interview`
 
 1. We
 2. Do

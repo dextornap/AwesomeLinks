@@ -4,8 +4,6 @@
 
 ## Welcome to Atlassian
 
------
-
 ### Coding interview
 
     1. Efficiency using both IDE and keyboard will be assessed
@@ -26,7 +24,9 @@
 ### System design interview
 
     1. demonstrate technical depth, breadth, and proficiency
+
     2. problem-solving thought process, decision making and operational considerations such as performance and reliability
+    
     3. Seek first to understand
 
         - starting with fundamentals and then building in complexity

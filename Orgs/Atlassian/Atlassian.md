@@ -140,10 +140,18 @@
 ### Management interview
 
     1. STAR interview model
+
         - STAR stands for Situation, Task, Action, Result
-    2. ***
+
+    2. Reviewing your interviewers on LinkedIn 
+
+    3. Researching Atlassian
+
+    4. Coming prepared with questions/topics you'd like to learn more about
 
 > **Resources**
+
+- [Atlassian - Company culture](https://www.atlassian.com/blog/teamwork/what-is-company-culture)
 
 - [How to Use the STAR Interview Response Technique](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
 

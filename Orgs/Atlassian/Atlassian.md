@@ -4,6 +4,12 @@
 
 ## Welcome to Atlassian
 
+### Resources
+
+[Atlassian Interview Guide](./AtlassianEngineeringInterviewGuide.pdf)
+
+[What it is like to work at Atlassian](https://view.pointdrive.linkedin.com/presentations/46bfabba-f32a-4c4c-8a76-d5ac86e00fe1?auth=349aa8e6-dcae-4c98-9107-71cfe501a7cf)
+
 ### Coding interview
 
     1. Efficiency using both IDE and keyboard will be assessed
@@ -36,3 +42,5 @@
     4. Draw from past experiences when designing something new.
 
     5. Keep the customer in mind and how your solution might perform and scale.
+
+### System design interview

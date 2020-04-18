@@ -40,13 +40,16 @@
 
 2. Seek first to understand
 
+    - ask any clarifying questions upfront
     - starting with fundamentals and then building in complexity
-    - have a paper and pen available for the technical problem,
+    - have a paper and pen available for the technical problem
     - [whiteboard function in zoom](https://www.youtube.com/watch?v=GGNqE0BCf0E)
 
-3. Draw from past experiences when designing something new.
+3. Draw from past experiences when designing something new
 
-4. Keep the customer in mind and how your solution might perform and scale.
+4. Keep the customer in mind
+
+5. How your solution might perform and scale
 
 ---
 

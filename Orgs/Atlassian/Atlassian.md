@@ -42,6 +42,10 @@
 
 > **Resources**
 
+- [A Simple Guide to Connection Pooling in Java](https://www.baeldung.com/java-connection-pooling)
+
+- [A Generic and Concurrent Object Pool](https://dzone.com/articles/generic-and-concurrent-object)
+
 - [IntelliJ IDEA Mac Cheat Sheet | ShortcutFoo](https://www.shortcutfoo.com/app/dojos/intellij-idea-mac/cheatsheet)
 
 - [Test Driven Development - Java Example 1](https://www.youtube.com/watch?v=Xc3d6j8Rm_I)

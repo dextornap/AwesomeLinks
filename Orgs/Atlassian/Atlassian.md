@@ -8,7 +8,7 @@
 
 - [ALL Personal Projects @ Github !!!](https://github.com/ranjanlal)
 - [Atlassian Interview Guide](./AtlassianEngineeringInterviewGuide.pdf)
-
+- [Atlassian Interview Checklist](./Interview-Checklist-v3.pdf)
 - [What it is like to work at Atlassian](https://view.pointdrive.linkedin.com/presentations/46bfabba-f32a-4c4c-8a76-d5ac86e00fe1?auth=349aa8e6-dcae-4c98-9107-71cfe501a7cf)
 
 - [Atlassian Interview Questions in Sydney, Australia](https://www.glassdoor.com.au/Interview/Atlassian-Sydney-Interview-Questions-EI_IE115699.0,9_IL.10,16_IM962.htm)
@@ -41,6 +41,8 @@
     4. How well you can collaborate in a team in order to solve problems
 
 > **Resources**
+
+- [Java Concurrency - Defog Tech - Playlist (1/29)](https://www.youtube.com/watch?v=WH5UvQJizH0&list=PLhfHPmPYPPRk6yMrcbfafFGSbE2EPK_A6&index=1)
 
 - [A Simple Guide to Connection Pooling in Java](https://www.baeldung.com/java-connection-pooling)
 
